@@ -1,0 +1,3 @@
+Names           Position       Salary 
+Mr Leigh        Programmer     50,000
+Tindae          Developer      30,000
